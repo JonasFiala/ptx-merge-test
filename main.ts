@@ -1,2 +1,3 @@
+let x: number;
 
-namespace test
+basic.showNumber(Other.y)
